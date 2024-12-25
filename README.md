@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A System Engineer with certificates in Network Administration and Web Development/Design from Belgium</h3>
+<h3 align="center">A System Engineer specialized in Network Administration and Web Development/Design from Belgium</h3>
 
 - 🔭 I’m currently working on **many things**
 
